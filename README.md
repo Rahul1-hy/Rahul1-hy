@@ -1,210 +1,236 @@
 <div align="center">
 
-# Rahul Kumar
+# 👋 Rahul Kumar
 
-### Cybersecurity Enthusiast | Full-Stack Developer | B.Tech IT
+### Cybersecurity Enthusiast • Full-Stack Developer • B.Tech IT
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=720&lines=Cybersecurity+Enthusiast;Full-Stack+Developer;Web+Application+Security;Linux+%26+Networking;Building+Secure+Applications" alt="Typing SVG" />
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=750&lines=Cybersecurity+Enthusiast;Full-Stack+Developer;Web+Application+Security;Linux+%26+Networking;Building+Secure+Applications" alt="Typing SVG" />
+</p>
 
-<br>
-<a href="https://github.com/Rahul1-hy">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/rahulkumar019">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://portfolio-murex-sigma-13.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-2F81F7?style=flat-square&logo=vercel&logoColor=white" />
-</a>
+<p>
+  <a href="https://github.com/Rahul1-hy">
+    <img src="https://img.shields.io/badge/GitHub-Rahul1--hy-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/rahulkumar019">
+    <img src="https://img.shields.io/badge/LinkedIn-Rahul_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://portfolio-murex-sigma-13.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2F81F7?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 
-I'm a **B.Tech Information Technology graduate** with a background in full-stack web development and a growing specialization in cybersecurity.
+I'm a **B.Tech Information Technology graduate** with a background in **full-stack web development** and a growing specialization in **cybersecurity**.
 
-I am currently focused on developing practical skills in **network security, Linux, web application security, vulnerability assessment, and security testing**.
+I enjoy understanding how applications are built, identifying security weaknesses, and developing better ways to protect software and systems.
 
-My development background helps me understand applications from both sides — **how they are built and how they can be secured**.
+### 🎯 Current Focus
 
-### Professional Focus
-
-* Cybersecurity and application security
-* Web application security
-* Vulnerability assessment
-* Linux and networking
-* Secure software development
-* Security-focused development projects
+* 🔐 Web Application Security
+* 🌐 Networking & TCP/IP
+* 🐧 Linux & System Administration
+* 🛡️ Vulnerability Assessment
+* 🧪 Security Testing
+* ⚙️ Secure Software Development
+* 🚀 Security-focused Projects
 
 ---
 
-## Cybersecurity
+## 🔐 Cybersecurity
 
 ### Areas of Focus
 
-* **Cybersecurity Fundamentals**
-* **Networking & TCP/IP**
-* **Linux & System Administration**
-* **Web Application Security**
-* **OWASP Top 10**
-* **Reconnaissance & Enumeration**
-* **Vulnerability Assessment**
-* **Security Testing**
-* **Application Security**
-* **Security Best Practices**
+<p align="center">
 
-### Security Tools
+<img src="https://img.shields.io/badge/Cybersecurity-Fundamentals-2F81F7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Networking-TCP%2FIP-2F81F7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Linux-System_Admin-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Web-Security-2F81F7?style=for-the-badge" />
 
-<p align="left">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square" />
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square" />
-<img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" />
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/OWASP-Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white" />
+<img src="https://img.shields.io/badge/Reconnaissance-Enumeration-2F81F7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Vulnerability-Assessment-2F81F7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Application-Security-2F81F7?style=for-the-badge" />
+
+</p>
+
+### 🛠️ Security Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" />
 </p>
 
 ---
 
-## Technical Skills
+## 💻 Technical Skills
 
-### Languages
+### 🧠 Programming Languages
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,sql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,sql" />
 </p>
 
-### Frontend
+### 🎨 Frontend
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
 </p>
 
-### Backend
+### ⚙️ Backend
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
 </p>
 
-### Databases
+### 🗄️ Databases
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase" />
 </p>
 
-### Security & Networking
+### 🔧 Tools & DevOps
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,postman" />
-</p>
-
-### Tools & DevOps
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,vercel" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,postman,vscode,vercel" />
 </p>
 
 ---
 
-## Selected Projects
+## 🚀 Featured Projects
 
-### OCR Vision Studio
+### 🔍 OCR Vision Studio
 
-A document and image OCR application designed for extracting and processing text from digital documents.
+> Document & image OCR application for extracting and processing text from digital documents.
 
-**Technologies:** Python · FastAPI · Tesseract OCR · PyMuPDF · Docker
+**Tech Stack**
+
+`Python` `FastAPI` `Tesseract OCR` `PyMuPDF` `Docker`
 
 **Highlights**
 
-* Document and image text extraction
-* PDF processing
-* OCR-based text recognition
-* FastAPI backend
-* Dockerized deployment
+* 📄 PDF & image text extraction
+* 🔎 OCR-based text recognition
+* ⚡ FastAPI backend
+* 🐳 Dockerized deployment
+* 🧩 Document processing workflow
 
-**Repository:**
-https://github.com/Rahul1-hy/OCR-Vision-Studio
+**Repository**
+
+[View Project →](https://github.com/Rahul1-hy/OCR-Vision-Studio)
 
 ---
 
-### CyberSecPlanner
+### 🛡️ CyberSecPlanner
 
-An Android-focused application for organizing cybersecurity learning, daily tasks, job applications, and study progress.
+> Android-focused application for managing cybersecurity learning, tasks, job applications, and progress.
 
-**Technologies:** React Native · Expo · TypeScript · SQLite
+**Tech Stack**
+
+`React Native` `Expo` `TypeScript` `SQLite`
 
 **Highlights**
 
-* Cybersecurity learning roadmap
-* Daily task management
-* Job application tracking
-* Study progress tracking
-* Local notifications
-* Offline-first architecture
+* 📚 Cybersecurity learning roadmap
+* ✅ Daily task management
+* 💼 Job application tracking
+* 📈 Study progress tracking
+* 🔔 Local notifications
+* 📱 Offline-first architecture
 
-**Repository:**
-https://github.com/Rahul1-hy/CyberSecPlanner
+**Repository**
+
+[View Project →](https://github.com/Rahul1-hy/CyberSecPlanner)
 
 ---
 
-### Full-Stack E-Commerce Platform
+### 🛒 Full-Stack E-Commerce Platform
 
-A modern e-commerce application demonstrating full-stack development, authentication, payment integration, database management, and cloud services.
+> Modern e-commerce platform demonstrating authentication, payments, database management, cloud services, and deployment.
 
-**Technologies:** Next.js · MongoDB · Firebase · Cloudinary · PayPal · Docker
+**Tech Stack**
+
+`Next.js` `MongoDB` `Firebase` `Cloudinary` `PayPal` `Docker`
 
 **Highlights**
 
-* Authentication
-* Product management
-* Shopping cart
-* Payment integration
-* Cloud image storage
-* REST/API integration
-* Docker support
+* 🔐 Authentication
+* 🛍️ Product management
+* 🛒 Shopping cart
+* 💳 Payment integration
+* ☁️ Cloud image storage
+* 🔌 API integration
+* 🐳 Docker support
 
 ---
 
-## Current Learning Path
+## 🧭 Cybersecurity Learning Path
 
 ```text
-Networking
-    ↓
-Linux
-    ↓
-Cybersecurity Fundamentals
-    ↓
-Web Technologies
-    ↓
-OWASP Top 10
-    ↓
-Reconnaissance & Enumeration
-    ↓
-Vulnerability Assessment
-    ↓
-Web Application Security
-    ↓
-Security Projects
+              ┌───────────────┐
+              │   Networking  │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │     Linux     │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │ Cybersecurity │
+              │  Fundamentals │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │ Web Technology│
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │  OWASP Top 10 │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │ Recon & Enum  │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │ Vulnerability │
+              │   Assessment  │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │ Web App Sec.  │
+              └───────┬───────┘
+                      ↓
+              ┌───────────────┐
+              │   Projects    │
+              └───────────────┘
 ```
 
 ---
 
-## 2026 Career Objective
+## 🎯 2026 Career Objective
 
-My current objective is to transition into a **Cybersecurity role** while leveraging my existing software development experience.
+My goal is to transition into a **Cybersecurity role** while leveraging my existing **software development experience**.
 
 ### Target Roles
 
-* Security Analyst
-* SOC Analyst
-* Vulnerability Assessment Analyst
-* Application Security
-* Web Application Security
-* Junior Cybersecurity Analyst
+`Security Analyst` · `SOC Analyst` · `Vulnerability Assessment Analyst` · `Application Security` · `Web Application Security` · `Junior Cybersecurity Analyst`
 
 ---
 
-## GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -214,9 +240,7 @@ My current objective is to transition into a **Cybersecurity role** while levera
 
 </div>
 
----
-
-## Contribution Activity
+<br>
 
 <div align="center">
 
@@ -226,28 +250,38 @@ My current objective is to transition into a **Cybersecurity role** while levera
 
 ---
 
-## Let's Connect
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/rahulkumar019">
-<img src="https://img.shields.io/badge/LinkedIn-Rahul_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Rahul_Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://portfolio-murex-sigma-13.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-2F81F7?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit-2F81F7?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
 <a href="https://github.com/Rahul1-hy">
-<img src="https://img.shields.io/badge/GitHub-Rahul1--hy-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Rahul1--hy-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
-<br />
+<br>
 
 <div align="center">
 
-**Building with code. Learning security. Creating better software.**
+### ⚡ Building with code. Learning security. Creating better software.
 
 </div>
