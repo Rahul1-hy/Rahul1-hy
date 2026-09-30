@@ -4,10 +4,9 @@
 
 ### Cybersecurity Enthusiast | Full-Stack Developer | B.Tech IT
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=720&lines=Cybersecurity+Enthusiast;Full-Stack+Developer;Web+Applicati[...]
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=720&lines=Cybersecurity+Enthusiast;Full-Stack+Developer;Web+Application+Security;Linux+%26+Networking;Building+Secure+Applications" alt="Typing SVG" />
 
-<br />
-
+<br>
 <a href="https://github.com/Rahul1-hy">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </a>
