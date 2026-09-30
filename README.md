@@ -4,7 +4,7 @@
 
 ### Cybersecurity Enthusiast | Full-Stack Developer | B.Tech IT
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=720&lines=Cybersecurity+Enthusiast;Full-Stack+Developer;Web+Application+Security;Linux+%26+Networking;Building+Secure+Applications" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=720&lines=Cybersecurity+Enthusiast;Full-Stack+Developer;Web+Applicati[...]
 
 <br />
 
@@ -72,25 +72,31 @@ My development background helps me understand applications from both sides — *
 ### Languages
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,sql" />
 </p>
 
 ### Frontend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap" />
 </p>
 
 ### Backend
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask" />
 </p>
 
 ### Databases
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,firebase" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,sqlite,firebase" />
+</p>
+
+### Security & Networking
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,docker,postman" />
 </p>
 
 ### Tools & DevOps
